@@ -1,1 +1,1 @@
-[![Header](https://github.com/reslaid/reslaid/blob/master/assets/background.jpg)]
+[Header](https://github.com/reslaid/reslaid/blob/master/assets/background.jpg)
