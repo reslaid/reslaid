@@ -1,1 +1,3 @@
-![C++](img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b%logoColor=6296CC)
+![C++](https://img.shields.io/badge/C++-blue.svg)
+![C#](https://img.shields.io/badge/C%23-.NET-green.svg)
+![Python](https://img.shields.io/badge/Python-yellow.svg)
