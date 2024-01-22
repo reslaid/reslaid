@@ -1,4 +1,4 @@
-![BG](https://telegra.ph/file/220472ac3e00f0edc0384.jpg){:width="640" height="360"}
+![BG](https://telegra.ph/file/220472ac3e00f0edc0384.jpg)
 
 ## Programming languages learned
 - ![C/C++](https://img.shields.io/badge/C/C++-blue.svg)
