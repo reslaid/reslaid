@@ -7,4 +7,4 @@
 - ![Python](https://img.shields.io/badge/Python-yellow.svg)
 
 # Feedback
-- Telegram: https://t.me/kxrnel32
+- [Telegram](https://t.me/kxrnel32)
