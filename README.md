@@ -1,10 +1,10 @@
 ### Languages
-[![languages](https://skillicons.dev/icons?i=c,cpp,rust,python)](https://github.com/weyh)
+> [![languages](https://skillicons.dev/icons?i=c,cpp,rust,python)](https://github.com/weyh)
 
 ---
 
 ### Feedback
-![Telegram](https://img.shields.io/badge/Telegram:-white.svg)
+> ![Telegram](https://img.shields.io/badge/Telegram:-white.svg)
 [![Telegram](https://img.icons8.com/fluency/20/000000/telegram-app.png)](https://t.me/kxrnel32)
 
 ---
