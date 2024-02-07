@@ -1,9 +1,1 @@
-![BG](https://telegra.ph/file/220472ac3e00f0edc0384.jpg)
-
-## Programming languages learned
-- ![C/C++](https://img.shields.io/badge/C-C++-blue.svg)
-- ![Python](https://img.shields.io/badge/Python-yellow.svg)
-- ![Rust](https://img.shields.io/badge/Rust-purple.svg)
-
-## Feedback
-- [**Telegram**](https://t.me/kxrnel32)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reslaid&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
