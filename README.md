@@ -4,7 +4,7 @@
 ---
 
 ### Feedback
-> ![Telegram](https://img.shields.io/badge/Telegram:-white.svg)
+> [![Telegram](https://img.shields.io/badge/Telegram:-white.svg)](https://t.me/kxrnel32)
 [![Telegram](https://img.icons8.com/fluency/20/000000/telegram-app.png)](https://t.me/kxrnel32)
 
 ---
