@@ -1,5 +1,5 @@
 > ### Languages
-> [![languages](https://skillicons.dev/icons?i=cpp,python,rust)](https://github.com/reslaid)
+> [![languages](https://skillicons.dev/icons?i=cpp,rust)](https://github.com/reslaid)
 
 > ---
 
